@@ -20,6 +20,10 @@ let data = {
     login_remember: {
         vi: 'Nhớ thông tin đăng nhập',
     },
+
+    error_api_general: {
+        vi: 'Hệ thống gặp lỗi {0}.\nXin vui lòng thử lại sau!',
+    },
 };
 
 if (typeof module == 'undefined' || typeof module.exports == 'undefined') {
