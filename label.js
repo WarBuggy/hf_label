@@ -40,7 +40,7 @@ let data = {
     },
 
     welcome_new_registered_user: {
-        vi: 'Xin chào mừng quý khách đã gia nhập cộng đồng happynessfunds.com. Chúng tôi luôn cố gắng hết mình để quý khách có được những trải nghiệm mua sắm tuyệt vời nhất.',
+        vi: 'Xin chào mừng quý khách đã gia nhập cộng đồng happynessfunds.com.<br><br>Chúng tôi luôn cố gắng hết mình để quý khách có được những trải nghiệm mua sắm tuyệt vời nhất.',
     },
     continue: {
         vi: 'Tiếp tục',
@@ -56,6 +56,9 @@ let data = {
     },
     change_password: {
         vi: 'Đổi mật khẩu',
+    },
+    require_email_not_registered: {
+        vi: 'Email chưa được đăng ký.',
     },
 };
 
