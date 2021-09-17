@@ -60,6 +60,15 @@ let data = {
     require_email_not_registered: {
         vi: 'Email chưa được đăng ký.',
     },
+    require_password_confirm_correct: {
+        vi: 'Mật khẩu không trùng nhau.',
+    },
+    forget_password_changed: {
+        vi: 'Mật khẩu của quý khách đã được thay đổi thành công.<br><br>Xin quý khách giữ gìn mật khẩu cẩn thận, không cho bất kỳ ai biết và thay đổi thường xuyên.<br><br>Chúc quý khách có những trải nghiệm mua sắm tuyệt vời tại happynessfunds.com.',
+    },
+    show_password: {
+        vi: 'Hiển thị mật khẩu',
+    },
 };
 
 if (typeof module == 'undefined' || typeof module.exports == 'undefined') {
