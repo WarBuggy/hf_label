@@ -45,9 +45,14 @@ let data = {
     continue: {
         vi: 'Tiếp tục',
     },
-
     title_register: {
         vi: 'Đăng ký tài khoản phổ thông',
+    },
+    title_forgot_password: {
+        vi: 'Yêu cầu mật khẩu mới'
+    },
+    require_email_correct: {
+        vi: 'Mã xác nhận email không đúng. Xin vui lòng kiểm lại email chứa mã xác nhận trong hộp thư trên!',
     },
 };
 
