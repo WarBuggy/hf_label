@@ -29,7 +29,7 @@ let data = {
         vi: 'Gửi mã.',
     },
     require_password_strong: {
-        vi: 'Mật khẩu cần ít nhất 8 ký tự, ít nhất 1 chữ thường, 1 chữ hoa, 1 số và 1 ký tự đặc biệt.',
+        vi: 'Mật khẩu cần ít nhất 8 ký tự, ít nhất 1 chữ thường, 1 chữ hoa, 1 số và 1 ký tự đặc biệt (!, @, #, $, %, ^, & hay *).',
     },
 
     require_email_taken: {
