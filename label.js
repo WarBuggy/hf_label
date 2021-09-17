@@ -54,6 +54,9 @@ let data = {
     require_email_correct: {
         vi: 'Mã xác nhận email không đúng. Xin vui lòng kiểm lại email chứa mã xác nhận trong hộp thư trên!',
     },
+    change_password: {
+        vi: 'Đổi mật khẩu',
+    },
 };
 
 if (typeof module == 'undefined' || typeof module.exports == 'undefined') {
