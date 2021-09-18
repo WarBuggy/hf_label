@@ -71,6 +71,9 @@ let data = {
     wrong_email_pass: {
         vi: 'Email hay mật khẩu không đúng. Xin quý khách vui lòng kiểm tra và thử lại!',
     },
+    logout: {
+        vi: 'Đăng xuất',
+    }
 };
 
 if (typeof module == 'undefined' || typeof module.exports == 'undefined') {
