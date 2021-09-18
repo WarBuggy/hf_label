@@ -11,7 +11,7 @@ let data = {
     register: {
         vi: 'Đăng ký',
     },
-    forgot_password: {
+    forget_password: {
         vi: 'Quên mật khẩu',
     },
     wrong_username_or_password: {
@@ -20,25 +20,21 @@ let data = {
     login_remember: {
         vi: 'Nhớ thông tin đăng nhập',
     },
-
     error_api_general: {
         vi: 'Hệ thống gặp lỗi {0}.\nXin vui lòng thử lại sau!',
     },
-
     send_email_confirm_code: {
         vi: 'Gửi mã.',
     },
     require_password_strong: {
         vi: 'Mật khẩu cần ít nhất 8 ký tự, ít nhất 1 chữ thường, 1 chữ hoa, 1 số và 1 ký tự đặc biệt (!, @, #, $, %, ^, & hay *).',
     },
-
     require_email_taken: {
         vi: 'Email đã được sử dụng cho tài khoản khác.',
     },
     require_email_confirm: {
         vi: 'Nhập mã xác nhận email. Nếu bạn chưa có, bấm nút "Gửi mã" và kiểm hộp thư liên quan.',
     },
-
     welcome_new_registered_user: {
         vi: 'Xin chào mừng quý khách đã gia nhập cộng đồng happynessfunds.com.<br><br>Chúng tôi luôn cố gắng hết mình để quý khách có được những trải nghiệm mua sắm tuyệt vời nhất.',
     },
@@ -68,6 +64,12 @@ let data = {
     },
     show_password: {
         vi: 'Hiển thị mật khẩu',
+    },
+    title_login: {
+        vi: 'Đăng nhập tài khoản phổ thông',
+    },
+    wrong_email_pass: {
+        vi: 'Email hay mật khẩu không đúng. Xin quý khách vui lòng kiểm tra và thử lại!',
     },
 };
 
