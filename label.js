@@ -77,8 +77,14 @@ let data = {
     title_logout: {
         vi: 'Đăng xuất khỏi tài khoản',
     },
-    logout_confirm_text: {
+    logout_confirm: {
         vi: 'Quý khách có chắc chắn muốn đăng thoát khỏi tài khoản này?',
+    },
+    logout_no_user: {
+        vi: 'Quý khách chưa đăng nhập tài khoàn.',
+    },
+    back: {
+        vi: 'Quay lại',
     },
 };
 
