@@ -92,6 +92,12 @@ let data = {
     logout_no_user: {
         vi: 'Quý khách chưa đăng nhập. Xin vui lòng tiếp tục!',
     },
+    login_success: {
+        vi: 'Quý khách đã đăng nhập vào tài khoản thành công!',
+    },
+    login_instruction: {
+        vi: 'Xin quý khách vui lòng điền thông tin để tạo tài khoản phổ thông tại happynessfunds.com',
+    },
 };
 
 if (typeof module == 'undefined' || typeof module.exports == 'undefined') {
