@@ -86,6 +86,12 @@ let data = {
     back: {
         vi: 'Quay lại',
     },
+    logout_success: {
+        vi: 'Quý khách đã đăng xuất ra khỏi tài khoản thành công!'
+    },
+    logout_no_user: {
+        vi: 'Quý khách chưa đăng nhập. Xin vui lòng tiếp tục!',
+    },
 };
 
 if (typeof module == 'undefined' || typeof module.exports == 'undefined') {
