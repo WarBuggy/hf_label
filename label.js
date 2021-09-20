@@ -73,7 +73,13 @@ let data = {
     },
     logout: {
         vi: 'Đăng xuất',
-    }
+    },
+    title_logout: {
+        vi: 'Đăng xuất khỏi tài khoản',
+    },
+    logout_confirm_text: {
+        vi: 'Quý khách có chắc chắn muốn đăng thoát khỏi tài khoản này?',
+    },
 };
 
 if (typeof module == 'undefined' || typeof module.exports == 'undefined') {
