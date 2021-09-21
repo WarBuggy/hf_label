@@ -104,6 +104,11 @@ let data = {
     logout_before_register: {
         vi: 'Xin quý khách vui lòng đăng xuất trước khi tạo tài khoản mới!'
     },
+    logout_before_new_password: {
+        vi: 'Quý khách có chắc chắn đã quên mật khẩu tại happynessfunds.com và đang cần mật mật khẩu mới?<br>' +
+            'Nếu thực sự như vậy, xin quý khách vui lòng đăng xuất trước!<br>' +
+            'Nếu đây không phải là ý muốn của quý khách, xin vui lòng quay lại trang chủ.'
+    },
 };
 
 if (typeof module == 'undefined' || typeof module.exports == 'undefined') {
