@@ -109,6 +109,9 @@ let data = {
             'Nếu thực sự như vậy, xin quý khách vui lòng đăng xuất trước!<br>' +
             'Nếu đây không phải là ý muốn của quý khách, xin vui lòng quay lại trang chủ.'
     },
+    home_page: {
+        vi: 'Trang chủ',
+    },
 };
 
 if (typeof module == 'undefined' || typeof module.exports == 'undefined') {
