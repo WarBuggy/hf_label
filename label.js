@@ -90,13 +90,16 @@ let data = {
         vi: 'Quý khách đã đăng xuất ra khỏi tài khoản thành công!'
     },
     logout_no_user: {
-        vi: 'Quý khách chưa đăng nhập. Xin vui lòng tiếp tục!',
+        vi: 'Xin mời quý khách vui lòng đăng nhập trước',
     },
     login_success: {
         vi: 'Quý khách đã đăng nhập vào tài khoản thành công!',
     },
     login_instruction: {
         vi: 'Xin quý khách vui lòng điền thông tin để tạo tài khoản phổ thông tại happynessfunds.com',
+    },
+    logout_before_login: {
+        vi: 'Xin vui lòng đăng xuất trước khi đăng nhập!',
     },
 };
 
