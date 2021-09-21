@@ -99,7 +99,10 @@ let data = {
         vi: 'Xin quý khách vui lòng điền thông tin để tạo tài khoản phổ thông tại happynessfunds.com',
     },
     logout_before_login: {
-        vi: 'Xin vui lòng đăng xuất trước khi đăng nhập!',
+        vi: 'Xin quý khách vui lòng đăng xuất trước khi đăng nhập!',
+    },
+    logout_before_register: {
+        vi: 'Xin quý khách vui lòng đăng xuất trước khi tạo tài khoản mới!'
     },
 };
 
